@@ -1,1 +1,1 @@
-print('cow')
+print('no')
